@@ -4,7 +4,7 @@ con = mysql.connector.connect(
 user = "sobha_student",
 password = "sobha_student",
 host = "108.167.140.122",
-database = "ardit700_pm1database"
+database = "sobha_pm1database"
 )
 
 cursor = con.cursor()
